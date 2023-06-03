@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "uium"
-version = "0.3.3"
+version = "0.3.7"
 description = "An interesting python package"
 authors = ["Mark Hoo <markhoo@foxmail.com>"]
 readme = "README.md"
@@ -37,7 +37,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.7"
 undetected-chromedriver = "^3.4.7"
-selenium = "^4.9.1"
+selenium = "^4.0.0"
 webdriver-manager = "^3.8.6"
 
 [build-system]
